@@ -1,0 +1,3 @@
+{
+    "includes":["libglob.gyp"]
+}
